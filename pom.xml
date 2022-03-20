@@ -29,6 +29,12 @@
 			<organization>teasoft</organization>
 			<organizationUrl>http://www.teasoft.org</organizationUrl>
 		</developer>
+		<developer>
+			<name>KmCoding</name>
+			<email>kmcoding@126.com</email>
+			<organization>KmCoding</organization>
+			<organizationUrl>http://www.KmCoding.com</organizationUrl>
+		</developer>
 	</developers>
 
 	<profiles>
